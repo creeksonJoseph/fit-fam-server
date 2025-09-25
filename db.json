@@ -25263,5 +25263,17 @@
         "Step:5 Continue alternating arms for the desired number of repetitions."
       ]
     }
+  ],
+  "bodyParts": [
+    { "name": "neck" },
+    { "name": "lower arms" },
+    { "name": "shoulders" },
+    { "name": "cardio" },
+    { "name": "upper arms" },
+    { "name": "chest" },
+    { "name": "lower legs" },
+    { "name": "back" },
+    { "name": "upper legs" },
+    { "name": "waist" }
   ]
 }
