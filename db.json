@@ -1,4 +1,5 @@
-[
+{
+  "exercises": [
   {
     "exerciseId": "trmte8s",
     "name": "band shrug",
@@ -25237,3 +25238,4 @@
     ]
   }
 ]
+}
